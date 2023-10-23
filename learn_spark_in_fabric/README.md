@@ -1,6 +1,8 @@
 ## Learn Spark in Microsoft Fabric
 This repo accompanies the [3.5 hour tutorial video](https://youtu.be/02lSlhwLU4c) on how to get started with Apache Spark on Microsoft Fabric. 
 
+[<img height="250px" src="Spark3hrtutorial.png" alt="Learn Spark in Microsoft Fabric 3.5 hour tutorial">](https://youtu.be/02lSlhwLU4c)
+
 Spark is the engine behind both the Data Engineering AND the Data Science experiences in Microsoft Fabric, so in this 3.5 HOUR tutorial, I walk you through Apache Spark: what it is, why you should learn it, how to use it, and how it integrates into Microsoft Fabric. 
 
 No previous Spark knowledge is required, some basic Python would be useful!
